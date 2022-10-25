@@ -27,7 +27,7 @@ const Player = db.define('player', {
     type: DataTypes.INTEGER,
     field: 'guild_id',
     references: {
-      model: School,
+      model: Guild,
       key: 'id'
     }
   },
