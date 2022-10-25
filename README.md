@@ -33,4 +33,8 @@ agregar packed.jsom
   
   [![3.png](https://i.postimg.cc/bNvSs1sP/3.png)](https://postimg.cc/RqjZY67p)
   
+  [![5.png](https://i.postimg.cc/LXwfSX3f/5.png)](https://postimg.cc/phQyYP7X)
+  
+  [![6.png](https://i.postimg.cc/T30DwQcT/6.png)](https://postimg.cc/nXszS45W)
+  
   
