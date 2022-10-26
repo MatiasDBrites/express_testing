@@ -29,12 +29,6 @@ agregar packed.jsom
   [![4c.png](https://i.postimg.cc/J0fx4KM1/4c.png)](https://postimg.cc/H8tX6wrK)
   
   correr npm test
-  aca viene la bola de errores!!! hahahaha
   
-  [![3.png](https://i.postimg.cc/bNvSs1sP/3.png)](https://postimg.cc/RqjZY67p)
-  
-  [![5.png](https://i.postimg.cc/LXwfSX3f/5.png)](https://postimg.cc/phQyYP7X)
-  
-  [![6.png](https://i.postimg.cc/T30DwQcT/6.png)](https://postimg.cc/nXszS45W)
-  
+  [![1.png](https://i.postimg.cc/j5qg7DZD/1.png)](https://postimg.cc/qtYxfvfr)
   
