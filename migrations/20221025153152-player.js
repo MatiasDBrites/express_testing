@@ -3,7 +3,7 @@
 /** @type {import('sequelize-cli').Migration} */
 module.exports = {
   async up (queryInterface, Sequelize) {
-    await queryInterface.createTable('guild', {
+    await queryInterface.createTable('player', {
       id: {
         allowNull: false,
         autoIncrement: true,
@@ -26,13 +26,14 @@ module.exports = {
         type: Sequelize.INTEGER
       },
       createdOn: {
-        allowNull: false,
-        type: Sequelize.DATE
-      },
+        type: Sequelize.DATE,
+        defaultValue: Sequelize.NOW,
+        field: 'created_on'
+      }
     });
   },
 
   async down (queryInterface, Sequelize) {
-    await queryInterface.dropTable('guild');
+    await queryInterface.dropTable('player');
   }
 };

@@ -14,7 +14,8 @@ module.exports = {
         type: Sequelize.STRING
       },
       lastName: {
-        type: Sequelize.STRING
+        type: Sequelize.STRING,
+        field: 'last_name'
       },
       email: {
         type: Sequelize.STRING
@@ -23,9 +24,10 @@ module.exports = {
         type: Sequelize.STRING
       },
       createdOn: {
-        allowNull: false,
-        type: Sequelize.DATE
-      },
+        type: Sequelize.DATE,
+        defaultValue: Sequelize.NOW,
+        field: 'created_on'
+      }
     });
   },
 
